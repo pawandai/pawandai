@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi there 👋 I am Pawan Awasthi</h1>
-<h3 align="center">An Engineering Student in Nepal</h3>
+<h3 align="center">An Engineering Student from Nepal</h3>
 
 - I am currently working hard pursuing my dream of becoming a FullStack Engineer.
 - Contact Me: **contactpawandai@gmail.com**
