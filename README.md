@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Find Me Here:</h3>
-<a href="https://www.linkedin.com/in/pawan-awasthi-5a1a6b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-awasthi-5a1a6b244/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pawandai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawan-awasthi-5a1a6b244/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-awasthi-5a1a6b244/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pawandai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 <h1></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawandai&show_icons=true&locale=en&layout=compact" alt="pawandai" /></p>
