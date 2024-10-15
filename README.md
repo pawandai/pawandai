@@ -5,6 +5,7 @@
 - 2024 Goals: Learn different Software Architecture and Design Patterns, T3 Stack.
 - 2025 Goals: Deep Dive into OS
 - Contact Me: **contactpawandai@gmail.com**
+- Portfolio: **https://pawanawasthi.com.np/**
 
 <h3>Skills:</h3>
 
