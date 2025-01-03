@@ -2,8 +2,7 @@
 <h3 align="center">An Engineering Student from Nepal</h3>
 
 - I am currently working hard pursuing my dream of becoming a FullStack Engineer.
-- 2024 Goals: Learn different Software Architecture and Design Patterns, T3 Stack.
-- 2025 Goals: Deep Dive into OS
+- 2025 Goals: Deep Dive into OS, ML and Design Patterns
 - Contact Me: **contactpawandai@gmail.com**
 - Portfolio: **https://pawanawasthi.com.np/**
 
