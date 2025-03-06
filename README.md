@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 I am Pawan Awasthi</h1>
 <h3 align="center">An Engineering Student from Nepal</h3>
 
-- I am currently working on a ML Project
 - 2025 Goals: Deep Dive into OS, ML and Design Patterns
 - Contact Me: **contactpawandai@gmail.com**
 - Portfolio: **https://pawanawasthi.com.np/**
