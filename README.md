@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 I am Pawan Awasthi</h1>
 <h3 align="center">An Engineering Student from Nepal</h3>
 
-- 2025 Goals: Deep Dive into OS, ML and Design Patterns
 - Contact Me: **contactpawandai@gmail.com**
 - Portfolio: **[Pawan Dai](https://www.pawanawasthi.com.np/)**
 
@@ -11,6 +10,7 @@
 - Database Design
 - Object Oriented Software Engineering
 - Mobile Development (React Native, Kotlin)
+- Hardware Engineering
 
 
 
